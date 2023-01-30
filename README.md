@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @fuchenru
-- 👀 I’m interested in macro and behavior economics, equity research and business analysis
-- 🌱 I’m currently learning python and all kinds of language from the beginning
+- 👀 I’m interested in Macroeconomics and financial economics. 
+- 🌱 Right now learning data analytics.
 - 📫 How to reach me : fuchenru@msu.edu
 - 📫 www.linkedin.com/in/peterfuchen
 

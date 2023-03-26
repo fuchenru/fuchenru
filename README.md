@@ -3,7 +3,7 @@ I am a upcoming grad student at the University of Chicago, with the field of Dat
 
 🔭 Current Work
 
-Currently, I'm working on improving my skills in R and Python, and I frequently use SQL in my work as well. I'm proficient in data analysis and have worked on several projects that involve data manipulation and visualization.
+Currently, I am focused on enhancing my skills in Python, R, and SQL, along with learning Tableau and PowerBi.
 
 🌱 Learning
 
@@ -12,7 +12,6 @@ I'm always interested in learning new things, especially in the areas of risk an
 📫 How to reach me
 
 Feel free to connect with me via email at fuchenru@uchicago.edu. You can also find me on LinkedIn at www.linkedin.com/in/peterfuchen.
-
 
 🤝 Let's collaborate!
 

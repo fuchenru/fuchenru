@@ -1,18 +1,15 @@
-Hi there, I'm Peter! 👋
-I am a upcoming grad student at the University of Chicago, with the field of Data Science. My academic focus is on using data to drive better decisions in a variety of contexts.
+Hi there! 👋
 
-🔭 Current Work
+I'm a student currently preparing to work in the field of risk analytics. My primary areas of focus are Python, R, SQL, and I'm eager to apply my skills to real-world problems in the risk management space.
 
-Currently, I am focused on enhancing my skills in Python, R, and SQL, along with learning Tableau and PowerBi.
+### Skills and Expertise
 
-🌱 Learning
+- Python for risk analysis and modeling
+- R for statistical analysis and data visualization
+- SQL for data manipulation and querying
+- Tableau for data visualization and reporting
 
-I'm always interested in learning new things, especially in the areas of risk analysis and management. I'm currently exploring default rate analysis, which I believe has significant potential for improving business and financial decision-making.
+### Contact Information
 
-📫 How to reach me
-
-Feel free to connect with me via email at fuchenru@uchicago.edu. You can also find me on LinkedIn at www.linkedin.com/in/peterfuchen.
-
-🤝 Let's collaborate!
-
-I'm always open to collaborating on projects, especially those related to macroeconomics analysis and risk management. If you're interested in working together, feel free to reach out!
+Email: fuchenru@uchicago.edu
+LinkedIn: (https://www.linkedin.com/in/peterfuchen/)

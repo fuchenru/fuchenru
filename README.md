@@ -1,13 +1,8 @@
 Hi there! 👋
 
-I'm a student currently preparing to work in the field of risk analytics. My primary areas of focus are Python, R, SQL, and I'm eager to apply my skills to real-world problems in the risk management space.
+R, python, javascript, shiny, dplyr, purrr, ditto, egplot, d3, canvas, spark, sawk, pyspark, sparkly, lodash, lazy, bootstrap, jupyter, vulpix, git, flask, numpy, pandas, feebas, scikit, pm, bayes, h2o.ai, sparkling-water, tensorflow, keras, onyx, ekans, scala, unity, metapod, gc, cli/c+*, rebase, neo4j, hadoop.
 
-### Skills and Expertise
-
-- Python for risk analysis and modeling
-- R for statistical analysis and data visualization
-- SQL for data manipulation and querying
-- Tableau for data visualization and reporting
+I typically ask recruiters to point out which of these are pokemon? ;)
 
 ### Contact Information
 

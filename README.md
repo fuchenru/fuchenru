@@ -6,6 +6,8 @@ His strong learning agility and curiosity are driving forces behind his interest
 
 He is ready to contribute analytical excellence and leadership to drive impactful results.
 
+Visit my Portfolio: https://peterfuchen.streamlit.app/
+
 ### Contact Information
 
 Email: fuchenru@uchicago.edu

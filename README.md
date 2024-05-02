@@ -1,8 +1,8 @@
 Hi there! 👋
 
-**Peter Fu Chen** equipped with excellent track record of academic background, multiple years of work experience. He is specialize in generating actionable insights from large datasets and collaborating effectively with diverse stakeholders. Adept in translating complex data and ideas into compelling narratives and interactive dashboards.
+**Peter Fu Chen** is an aspiring data engineer/data scientist with a proven track record in generating actionable insights from large datasets. He specializes in designing and implementing robust data pipelines, ensuring efficient data ingestion, transformation, storage and modeling. Peter excels in collaborating with cross-functional teams, translating complex data requirements into scalable and efficient data solutions.
 
-His strong learning agility and curiosity are driving forces behind his interest in new business ventures. With excellent skills in cross-functional communication, Peter supports key business objectives and thrives in high-pressure environments, demonstrating resilience in overcoming challenges.
+With expertise in programming languages like Python, SQL, and R, as well as distributed computing frameworks such as Apache Spark and Hadoop, Peter is adept at handling and processing large-scale datasets using cloud platform such as GCP or Azure. He possesses strong skills in data modeling, database design, and data architecture principles, ensuring data integrity and accessibility for analysis and reporting. Peter's ability to thrive in high-pressure environments and demonstrate resilience in overcoming challenges makes him a valuable asset for driving impactful results through data-driven insights.
 
 He is ready to contribute analytical excellence and leadership to drive impactful results.
 

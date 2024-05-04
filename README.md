@@ -34,7 +34,7 @@ me.say_hi()
   
 ## 🔧 Technologies & Tools <br />
   <code><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg"></code>
-  <code><img height="40" src="https://github.com/microsoft/sql-server-samples/blob/master/media/solutions-microsoft-logo-small.png](https://avatars.githubusercontent.com/u/6844498?s=48&v=4)](https://www.google.com/url?sa=i&url=https%3A%2F%2Fswimburger.net%2Fblog%2Fazure%2Fazure-has-a-new-logo-but-where-do-you-download-it-here&psig=AOvVaw2KxNaG5MacXvFH6vesfNu6&ust=1714940960097000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCNClzIfr9IUDFQAAAAAdAAAAABAE"></code>
+  <code><img height="40" src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg]"></code>
   <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
   <code><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg"></code>
   <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"></code>

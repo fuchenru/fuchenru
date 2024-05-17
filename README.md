@@ -15,7 +15,7 @@ class DataScientist:
     def say_hi(self):
         print("Thanks for visiting my personal Github Repo, hope you find some of my featured work interesting.")
 
-me = SoftwareEngineer()
+me = DataScientist()
 me.say_hi()
 ```
 <img src="https://github.com/sciencepal/sciencepal/blob/master/assets/life_balance.gif" alt="side Image" align="right" width="200" height="auto" />

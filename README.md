@@ -21,7 +21,7 @@ me.say_hi()
 <img src="https://github.com/sciencepal/sciencepal/blob/master/assets/life_balance.gif" alt="side Image" align="right" width="200" height="auto" />
   
   - Personal Website: <a href="https://peterfuchen.streamlit.app/">Website Link</a>
-  - 🚀 EDS Intern @KPMG (Summer 2024)
+  - 🚀 EDS (Data Engineer) Intern @KPMG (Summer 2024)
   - 🌱 I’m currently learning about Time Series Analysis and LLM Finetuning.
   - 💬 Feel Free to connect with me. I love communicating with everyone.
   - 😄 Pronouns: He / Him / His

@@ -22,7 +22,7 @@ me.say_hi()
   
   - Personal Website: <a href="https://peterfuchen.streamlit.app/">Website Link</a>
   - 🚀 EDS (Data Engineer) Intern @KPMG (Summer 2024)
-  - 🌱 I’m currently learning about Time Series Analysis and LLM Finetuning.
+  - 🌱 I’m currently learning about Machine Learning and LLM Finetuning.
   - 💬 Feel Free to connect with me. I love communicating with everyone.
   - 😄 Pronouns: He / Him / His
  

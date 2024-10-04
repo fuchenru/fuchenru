@@ -22,7 +22,7 @@ me.say_hi()
   
   - Personal Website: <a href="https://peterfuchen.streamlit.app/">Website Link</a>
   
-  - 🚀 Data Scientist @ <a href="https://www.onemagnify.com/">OneMagnify</a> 
+  - 🚀 Data Scientist
   - 🌱 I’m currently working in Machine Learning, LLM, NLP projects.
   - 💬 Feel Free to connect with me. I love communicating with everyone.
   - 😄 Pronouns: He / Him / His

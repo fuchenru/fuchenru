@@ -22,12 +22,11 @@ me.say_hi()
   
   - Personal Website: <a href="https://peterfuchen.streamlit.app/">Website Link</a>
   
-  - 🚀 Data Scientist @ <a href="https://kpmg.com/us/en.html">KPMG US</a> 
+  - 🚀 Data Scientist 
   - 🌱 I’m currently working in Machine Learning, LLM, NLP projects.
   - 💬 Feel Free to connect with me. I love communicating with everyone.
   - 😄 Pronouns: He / Him / His
  
-
 ## 📫 How to reach me:
 [<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>](https://www.linkedin.com/in/peterfuchen)  &nbsp; <a href="mailto:fuchenru@uchicago.edu"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="3.5%"/>
   
